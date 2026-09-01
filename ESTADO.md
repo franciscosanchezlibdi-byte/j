@@ -1,8 +1,8 @@
 # ESTADO del proyecto
 
 ## Tienda
-- Dominio: (pendiente — esperando el enlace del usuario)
-- Conexión: pendiente
+- Dominio: vzwpha-ut.myshopify.com
+- Conexión: pendiente (esperando llave de acceso `shpat_...`)
 
 ## Entorno
 - Ordenador: remoto (en la nube), Linux
@@ -17,7 +17,7 @@
 ## Fases
 - [x] Fase 0 — Entorno preparado
 - [ ] Fase 1 — Conexión + sondeo del producto
-- [ ] Fase 2 — Proyecto y tema base
+- [x] Fase 2 — Proyecto y tema base (Dawn 16.0.0 descargado)
 - [ ] Fase 3 — Brief / estilo
 - [ ] Fase 4 — Secciones personalizadas
 - [ ] Fase 5 — Producto y páginas
