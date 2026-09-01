@@ -10,3 +10,8 @@ Thumbs.db
 .shopify
 node_modules
 *.zip
+# Claves y temporales del proyecto de tienda (nunca subir)
+clave-tienda.txt
+clave-openai.txt
+.tmp-*.json
+fotos-producto/
