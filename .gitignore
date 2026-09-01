@@ -1,0 +1,5 @@
+# Nunca subir claves ni archivos temporales
+clave-tienda.txt
+clave-openai.txt
+.tmp-*.json
+node_modules/
